@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Pratiksha Rajput!](https://adarshreddyash.github.io) 
+### Hey 👋🏽, I'm [Pratiksha Rajput!](https://github.com/juhi0710) 
 
 <a href="https://www.linkedin.com/in/pratiksha-rajput-40b5371bb/">
   <img align="left" alt="Pratiksha Rajput LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
