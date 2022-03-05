@@ -28,6 +28,6 @@ Hi, I'm Pratiksha Rajput, a Full Stack Developer 🚀 from India currently, I'm 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.howtogeek.com%2F439038%2Fhow-to-insert-a-picture-or-other-object-in-microsoft-office%2F&psig=AOvVaw0tAZZ50E9flWI170bD45Jf&ust=1646593133865000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDl7cnTr_YCFQAAAAAdAAAAABAD"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/excel/excel.png"></code>
 
 
