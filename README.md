@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi, I'm Pratiksha Rajput, a Full Stack Developer 🚀 from India currently,🏽‍💻, Beside's programming, I enjoy traveling.
+Hi, I'm Pratiksha Rajput, a  budding Full Stack Developer 🚀 from India currently,🏽‍💻, Beside's programming, I enjoy traveling.
   
 **Talking about Personal Stuffs:**
 
