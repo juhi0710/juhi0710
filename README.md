@@ -18,7 +18,7 @@ Hi, I'm Pratiksha Rajput, a  budding Full Stack Developer 🚀 from India curren
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: juhirajput170@gmail.com;
-- 📝[Resume](file:///C:/Users/FJ/Downloads/my_resume%20(2)%20(2).pdf)
+- 📝[Resume](https://drive.google.com/file/d/1cX6N8l_V2aFtOR9DL6EcUDYwdnnVgnAA/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
